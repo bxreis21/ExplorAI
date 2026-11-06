@@ -1,8 +1,6 @@
 ---
 description: "Use when the user asks to create or edit service documentation. Defines the concise README.md structure for a service."
-applyTo:
-  - "src/*/*/**/*.py"
-  - "src/*/*/README.md"
+applyTo: "src/*/*/**/*.py","src/*/*/README.md"
 ---
 
 # Service Documentation

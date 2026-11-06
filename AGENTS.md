@@ -36,6 +36,7 @@ Keep each service's unit tests in that service's own `tests/` directory. Reserve
 
 - Write all repository content in English, including code, comments, documentation, tests, and agent instructions.
 - Follow [service architecture instructions](.github/instructions/service-architecture.instructions.md) when creating or editing service code.
+- Follow [processing class instructions](.github/instructions/processing-classes.instructions.md) when creating or editing processing classes under `src/processing/`.
 - Follow [service documentation instructions](.github/instructions/service-documentation.instructions.md) when creating or editing service code or documentation.
 - Do not create or modify tests during development unless the user explicitly asks for tests to be created or updated.
 - Do not create or modify documentation unless the user explicitly asks. If a code change is substantial enough that documentation may be outdated, remind the user in the final response; do not update the documentation automatically.
